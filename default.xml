@@ -229,7 +229,7 @@
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/volley" name="platform/frameworks/volley" />
   <project path="frameworks/webview" name="platform/frameworks/webview" />
-  <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
+  <project path="frameworks/wilhelm" name="android_frameworks_wilhelm" remote="ls" revision="jb3" />
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="cm" revision="cm-10.2" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="cm" revision="cm-10.2" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
