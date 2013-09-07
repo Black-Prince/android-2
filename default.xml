@@ -125,8 +125,8 @@
   <project path="external/libgsm" name="platform/external/libgsm" />
   <project path="external/liblzf" name="platform/external/liblzf" />
   <project path="external/libmtp" name="platform/external/libmtp" />
-  <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="cm" revision="cm-10.2" />
-  <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="cm" revision="cm-10.2" />
+  <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="sr" revision="jb4.3" />
+  <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="sr" revision="jb4.3" /> 
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libogg" name="platform/external/libogg" />
   <project path="external/libpcap" name="platform/external/libpcap" />
@@ -206,7 +206,7 @@
   <project path="external/v8" name="platform/external/v8" remote="ln" revision="linaro_android_4.3" />
   <project path="external/valgrind" name="platform/external/valgrind" />
   <project path="external/webkit" name="android_external_webkit" remote="ls" revision="jb3" />
-  <project path="external/webp" name="platform/external/webp" />
+  <project path="external/webp" name="android_external_webp" remote="ls" revision="jb3" /> 
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="cm" revision="cm-10.2" />
   <project path="external/wpa_supplicant_8_ti" name="android_external_wpa_supplicant_8_ti" remote="cm" revision="cm-10.2" />
@@ -235,7 +235,7 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" remote="ln" revision="linaro_android_4.3" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cm" revision="cm-10.2" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="ls" revision="jb3" /> 
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" remote="cm" revision="cm-10.2" />
   <project path="frameworks/rs" name="android_frameworks_rs" remote="ls" revision="jb3" />
   <project path="frameworks/support" name="platform/frameworks/support" />
